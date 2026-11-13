@@ -1,0 +1,14 @@
+{
+  "name": "bai-01",
+  "version": "1.0.0",
+  "description": "Bài tập 01 Node.js",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "keywords": [],
+  "author": "Võ Thanh Hoài",
+  "license": "ISC"
+}
+
+
